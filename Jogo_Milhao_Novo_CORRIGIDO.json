@@ -4485,16 +4485,8 @@
       ]
     }
   },
-  "active": true,
   "settings": {
-    "executionOrder": "v1",
-    "binaryMode": "separate"
+    "executionOrder": "v1"
   },
-  "versionId": "4a12c3b9-7c5a-4ede-a8f6-4f1845c6295f",
-  "meta": {
-    "templateCredsSetupCompleted": true,
-    "instanceId": "cc6ed82607da67b29802a1f29a7ab84e6e8b5982650208e7d40dda0463484b9f"
-  },
-  "id": "eU4PGTpWCBAOOPZp",
   "tags": []
 }
