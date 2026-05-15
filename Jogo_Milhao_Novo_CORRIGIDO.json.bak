@@ -1,0 +1,28 @@
+{
+  "name": "Jogo Milhão Novo",
+  "nodes": [
+    {
+      "parameters": {
+        "content": "## Intervenção Humana? - Redis Jogo Milhão",
+        "height": 1184,
+        "width": 608
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -3456,
+        336
+      ],
+      "typeVersion": 1,
+      "id": "b22a8867-2271-4487-abdd-8de01c6299ca",
+      "name": "Sticky Note29"
+    }
+  ],
+  "pinData": {},
+  "connections": {},
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "id": "eU4PGTpWCBAOOPZp",
+  "tags": []
+}
